@@ -1,12 +1,20 @@
 # Write your code here!
 def game_hash
   {
+<<<<<<< HEAD
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
       players: [
         {
           player_name: "Alan Anderson",
+=======
+  home: {
+    team_name: "Brooklyn Nets",
+    colors:["Black","White"],
+    players: [
+        {   player_name: "Alan Anderson",
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
           number: 0,
           shoe: 16,
           points: 22,
@@ -16,8 +24,12 @@ def game_hash
           blocks: 1,
           slam_dunks: 1
         },
+<<<<<<< HEAD
         {
           player_name: "Reggie Evans",
+=======
+        { player_name: 'Reggie Evans',
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
           number: 30,
           shoe: 14,
           points: 12,
@@ -25,10 +37,15 @@ def game_hash
           assists: 12,
           steals: 12,
           blocks: 12,
+<<<<<<< HEAD
           slam_dunks: 7
         },
         {
           player_name: "Brook Lopez",
+=======
+          slam_dunks: 7 }
+        { player_name: 'Brook Lopez',
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
           number: 11,
           shoe: 17,
           points: 17,
@@ -36,10 +53,15 @@ def game_hash
           assists: 10,
           steals: 3,
           blocks: 1,
+<<<<<<< HEAD
           slam_dunks: 15
         },
         {
           player_name: "Mason Plumlee",
+=======
+          slam_dunks: 15 },
+        { player_name: 'Mason Plumlee',
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
           number: 1,
           shoe: 19,
           points: 26,
@@ -47,10 +69,15 @@ def game_hash
           assists: 6,
           steals: 3,
           blocks: 8,
+<<<<<<< HEAD
           slam_dunks: 5
         },
         {
           player_name: "Jason Terry",
+=======
+          slam_dunks: 5 },
+        { player_name: 'Jason Terry',
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
           number: 31,
           shoe: 15,
           points: 19,
@@ -58,11 +85,17 @@ def game_hash
           assists: 2,
           steals: 4,
           blocks: 11,
+<<<<<<< HEAD
           slam_dunks: 1
         }
       ]
     },
     away: {
+=======
+          slam_dunks: 1 },
+      ] },
+  away: {
+>>>>>>> 8b981d992a9dae1b3cd098ad3a670a6f361ffceb
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: [
